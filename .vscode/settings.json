@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.txt": "plaintext",
+        "memlayout.h": "c",
+        "proc.h": "c",
+        "spinlock.h": "c",
+        "riscv.h": "c",
+        "defs.h": "c"
+    }
+}
