@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.txt": "plaintext",
+        "stat.h": "c",
+        "param.h": "c",
+        "types.h": "c",
+        "user.h": "c",
+        "sysinfo.h": "c",
+        "memlayout.h": "c",
+        "proc.h": "c"
+    }
+}
